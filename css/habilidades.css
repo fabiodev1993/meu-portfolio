@@ -27,14 +27,11 @@
   height: 100px;
   width: 100px;
   display: none;
+  cursor: pointer;
 }
 
 .icones .icones1{
   display: block;
-}
-
-.icones:hover{
-  cursor: pointer;
 }
 
 .icones:hover .icones1{
